@@ -1,0 +1,16 @@
+﻿Build started 4/15/2016 11:34:32 PM.
+     1>Project "C:\Users\Theo\Desktop\B - Path Planner\Project\PathPlannerApp\PathPlannerApp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PathPlannerLab.cpp
+         PathPlannerLab.cpp
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathPlannerApp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathPlannerApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathPlannerApp.lib" /MACHINE:X86 /SAFESEH Debug\PathPlanner.res
+         Debug\PathPlannerLab.obj
+         "C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathSearch.lib"
+         "C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\TileSystem.lib"
+         PathPlannerApp.vcxproj -> C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathPlannerApp.exe
+     1>Done Building Project "C:\Users\Theo\Desktop\B - Path Planner\Project\PathPlannerApp\PathPlannerApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79

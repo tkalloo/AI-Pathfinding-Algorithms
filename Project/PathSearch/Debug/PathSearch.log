@@ -1,0 +1,15 @@
+﻿Build started 4/15/2016 11:52:03 PM.
+     1>Project "C:\Users\Theo\Desktop\B - Path Planner\Project\PathSearch\PathSearch.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PathSearch.cpp
+         PathSearch.cpp
+     1>c:\users\theo\desktop\b - path planner\project\pathsearch\pathsearch.cpp(47): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathSearch.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathSearch.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathSearch.lib" /MACHINE:X86 /DLL Debug\PathSearch.obj
+         "C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\TileSystem.lib"
+         PathSearch.vcxproj -> C:\Users\Theo\Desktop\B - Path Planner\Project\Debug\PathSearch.dll
+     1>Done Building Project "C:\Users\Theo\Desktop\B - Path Planner\Project\PathSearch\PathSearch.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

@@ -1,0 +1,6 @@
+﻿  PathSearch.cpp
+PathSearch.cpp(47): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     Creating library F:\Apr AI\AI Path Finding Repo\Project\Release\PathSearch.lib and object F:\Apr AI\AI Path Finding Repo\Project\Release\PathSearch.exp
+  Generating code
+  Finished generating code
+  PathSearch.vcxproj -> F:\Apr AI\AI Path Finding Repo\Project\Release\PathSearch.dll
